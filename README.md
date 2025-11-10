@@ -1,4 +1,4 @@
-# Aplicacion-Peliculas - Kevin Villegas Rendón -
+# Aplicación-Peliculas - Kevin Villegas Rendón -
 ## Descripción General de la Aplicación
 
 **peliculasApp** es una aplicación móvil multiplataforma desarrollada con **Ionic Framework** y **Angular** que permite a los usuarios explorar información detallada sobre películas.
